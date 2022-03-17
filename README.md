@@ -3,7 +3,7 @@ Clone this repository. \
 run in terminal: 'npm install' \
 run in terminal: 'npm start' \
 
-This my first React project. A way to visualize and help understand 500 records of CVE data from a JSON file.
+This my first React project. A way to visualize and help understand 500 records of CVE data - Common Vulnerabilities and Exposures - from a JSON file.
 
 
 ## Available Scripts
