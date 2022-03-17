@@ -1,5 +1,5 @@
 # Getting Started
-Clone this repository.
+Clone this repository. \
 run in terminal: 'npm install' \
 run in terminal: 'npm start' \
 
