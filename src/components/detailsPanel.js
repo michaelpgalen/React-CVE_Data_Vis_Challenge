@@ -1,10 +1,5 @@
 import React, {useState,useEffect} from 'react';
 
-// dev style tool
-// const divStyle = {
-//   border: '1px solid green'
-// };
-
 function DetailsPanel(props) {
 
   const hosts = props.hosts?.join(', ')

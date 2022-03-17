@@ -3,7 +3,8 @@ import React, {useState,useEffect} from 'react';
 function DataHeaderLegend(props) {
 
   return (
-    <div className = 'cveListColumn legend'>
+    <div className = 'cveListColumn'>
+    <div className = 'legend'>
       <div className = 'legendItem' style={{width: '40%'}}>
         Legend: Risk numbers are rounded. Bar size proportionate to number of hosts.
       </div>
@@ -19,6 +20,7 @@ function DataHeaderLegend(props) {
         </p>
       </div>
     </div>
+  </div>
   )
 }
 
