@@ -1,3 +1,118 @@
+/* .sectionWrapper {
+  padding: 40px 80px;
+} */
+
+.DataWrapper {
+  display: flex;
+  flex-flow: row nowrap;
+  margin-top: 2rem;
+}
+
+.columnWrapper {
+  width: 50%;
+}
+
+.cveListColumn {
+  max-width: 1000px;
+  margin: auto;
+  padding: 0 40px;
+  /* border for dev only */
+  /* border: 1px solid red; */
+}
+
+.cveList {
+  overflow-y: scroll;
+  max-height: 700px;
+}
+
+.dataHeader {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+  background-color: aliceblue;
+}
+
+.dataHeaderItem {
+  padding: 10px 40px;
+  font-size: 1.25rem;
+  width: 30%;
+  font-weight: bold;
+}
+
+.legend {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.legendItem {
+  padding: 8px;
+  margin: 0 8px;
+  font-size: 0.75rem;
+  text-align: left;
+}
+
+.cveButton {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+  align-items: center;
+  width: 100%;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-radius: 5px;
+  background-color: white;
+  cursor: pointer;
+  transition: 0.4s;
+}
+
+.active, .cveButton:hover {
+  background-color: #ccc;
+}
+
+.cveAccItem {
+  padding: 10px 40px 10px 20px;
+  font-size: 1.25rem;
+  width: 30%;
+}
+
+.detailsPanel {
+  background-color: white;
+  display: block;
+  padding: 0 40px;
+  /* flex-flow: row nowrap; */
+  overflow-y: scroll;
+  max-height: 800px;
+  /* max-height: 0; */
+  /* transition: max-height 0.2s ease-out; */
+}
+
+/* .detailsCol {
+  width: 50%;
+  padding-left: 40px;
+} */
+
+.cveDetails {
+}
+
+/* .chartBox {
+  width: 800px;
+  height: 400px;
+  border: 1px solid black;
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: flex-start;
+}
+
+.bar {
+  width: 100px;
+  height: 40px;
+  background-color: red;
+  margin: 10px 0;
+} */
+
 .App {
   text-align: center;
 }

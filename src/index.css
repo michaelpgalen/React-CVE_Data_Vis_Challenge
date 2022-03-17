@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.chartContainer {
+  position: relative;
+  width: 800px;
+  height: 400px;
+  border: 1px solid black;
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: flex-end;
+}
