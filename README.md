@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Getting Started
+Clone this repository.
+run in terminal: 'npm install'
+run in terminal: 'npm start'
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This my first React project. A way to visualize and help understand 500 records of CVE data from a JSON file.
+
 
 ## Available Scripts
 
