@@ -13,10 +13,7 @@ This installs the required dependencies.\
 To run the React project:\
 $ `npm start` \
 
-Clone this repository. \
-run in terminal: 'npm install' \
-run in terminal: 'npm start' \
-
+## About this project
 This my first React project. A way to visualize and help a user understand 500 records of CVE data - Common Vulnerabilities and Exposures - from a JSON file.
 
 
