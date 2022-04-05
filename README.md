@@ -1,14 +1,17 @@
 # Getting Started
-Open your terminal and then type\
-$ git clone {https://github.com/michaelpgalen/CVE-Data-Vis-Challenge} \
+Open your terminal and then type:\
+`$ git clone {https://github.com/michaelpgalen/CVE-Data-Vis-Challenge}` \
 That clones the repo.\
+
 Then, cd into the new folder by typing:\
-CD CVE-Data-Vis-Challenge in terminal.\
+`CD CVE-Data-Vis-Challenge` \
+
 Then, type:\
-$ npm install\
+$ `npm install`\
 This installs the required dependencies.\
+
 To run the React project:\
-$ npm start \
+$ `npm start` \
 
 Clone this repository. \
 run in terminal: 'npm install' \
